@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "aberlaas": "1.25.0"
+    "aberlaas": "2.45.0"
   },
   "engines": {
     "node": ">=14.17.0"
